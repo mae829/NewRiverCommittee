@@ -1,0 +1,24 @@
+/*
+	Description: CSS styling Internet Explorer
+	Author: Miguel Estrada
+	Author URI: http://bleucellar.com/
+*/
+.ie6 #search-bar form .button,
+.ie7 #search-bar form .button{
+	margin-top:-22px;
+	width:80px;
+}
+.donate.button{
+	width:250px;
+}
+.ie7 nav{
+	display:inline;
+	position:relative;
+	top:15px;
+}
+.ie7 #content{
+	padding-top:25px;
+}
+body.ie7 #banner{
+	width:100%;
+}
